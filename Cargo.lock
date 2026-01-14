@@ -2402,9 +2402,9 @@ dependencies = [
 
 [[package]]
 name = "virtfw-varstore"
-version = "0.6.0"
+version = "0.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4e043d2f4d094c2fac993caee06de4f01c612eb13b400863714e932008b2c2e9"
+checksum = "e006f827ff617f08e9cb01ab51e87e261153970359cd3365f5a39702812aaf6c"
 dependencies = [
  "der",
  "hex",
